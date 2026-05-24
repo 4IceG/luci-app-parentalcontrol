@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Language-Team: Rafał Wabik (IceG)\n"
+"Language: zh_Hans\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Schedule"
+msgstr "时间计划"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Blocked"
+msgstr "已 corporate"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Override"
+msgstr "覆盖/例外"
+
+msgid "h"
+msgstr "小时"
+
+msgid "m"
+msgstr "分钟"
+
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "M"
+msgstr "M"
+
+msgid "K"
+msgstr "K"
+
+msgid "Every day"
+msgstr "每天"
+
+msgid "Mon-Fri"
+msgstr "周一至周五"
+
+msgid "Sat-Sun"
+msgstr "周六至周日"
+
+msgid "Blocked"
+msgstr "已拦截"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "Scheduled"
+msgstr "已排程"
+
+msgid "Inactive"
+msgstr "未激活"
+
+msgid "Schedule"
+msgstr "时间计划"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "From"
+msgstr "从"
+
+msgid "to"
+msgstr "至"
+
+msgid "Add Schedule"
+msgstr "添加时间计划"
+
+msgid "Parental Control"
+msgstr "家长控制"
+
+msgid "Parental control disabled"
+msgstr "家长控制已禁用"
+
+msgid "Parental control enabled"
+msgstr "家长控制已启用"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Active"
+msgstr "激活"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "No parental control rules configured."
+msgstr "未配置家长控制规则。"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Schedule"
+msgstr "时间计划"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Blocked"
+msgstr "已拦截"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Override"
+msgstr "覆盖/例外"
+
+msgid "Moved"
+msgstr "已移动"
+
+msgid "Move up"
+msgstr "上移"
+
+msgid "up"
+msgstr "向上"
+
+msgid "Drag to reorder"
+msgstr "拖动以重新排序"
+
+msgid "Move down"
+msgstr "下移"
+
+msgid "down"
+msgstr "向下"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Schedule"
+msgstr "时间计划"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Blocked"
+msgstr "已拦截"
+
+msgid "pkts"
+msgstr "数据包"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "enabled"
+msgstr "已启用"
+
+msgid "disabled"
+msgstr "已禁用"
+
+msgid "Override"
+msgstr "覆盖/例外"
+
+msgid "paused for"
+msgstr "暂停时长"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "min"
+msgstr "分钟"
+
+msgid "hour"
+msgstr "小时"
+
+msgid "hours"
+msgstr "小时"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "blocking resumed"
+msgstr "已恢复拦截"
+
+msgid "Resume"
+msgstr "恢复"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete rule"
+msgstr "删除规则"
+
+msgid "deleted"
+msgstr "已删除"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Parental Control"
+msgstr "家长控制"
+
+msgid "Controlled Devices"
+msgstr "受控设备"
+
+msgid "Add Rule"
+msgstr "添加规则"
+
+msgid "Add New Rule"
+msgstr "添加新规则"
+
+msgid "Device Name"
+msgstr "设备名称"
+
+msgid "e.g. Kids iPad"
+msgstr "例如：孩子的 iPad"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "-- Select a device --"
+msgstr "-- 选择设备 --"
+
+msgid "or"
+msgstr "或"
+
+msgid "Block Schedule"
+msgstr "拦截时间表"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Please enter a device name."
+msgstr "请输入设备名称。"
+
+msgid "Please select or enter a MAC address."
+msgstr "请选择或输入 MAC 地址。"
+
+msgid "Please configure at least one schedule."
+msgstr "请至少配置一个时间计划。"
+
+msgid "added"
+msgstr "已添加"
+
+msgid "Add Rule"
+msgstr "添加规则"
+
+msgid "Edit Rule"
+msgstr "编辑规则"
+
+msgid "Device Name"
+msgstr "设备名称"
+
+msgid "MAC Address"
+msgstr "MAC 地址"
+
+msgid "Block Schedule"
+msgstr "拦截时间表"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Please enter a device name."
+msgstr "请输入设备名称。"
+
+msgid "Please configure at least one schedule."
+msgstr "请至少配置一个时间计划。"
+
+msgid "updated"
+msgstr "已更新"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "MAC (manual)"
+msgstr "MAC (手动)"
+
+msgid "Package allows the user to manage parental control rules - block internet access for selected devices on a schedule and grant temporary bonus time."
+msgstr "该软件包允许用户管理家长控制规则——按计划阻止所选设备的互联网访问，并授予临时奖励时间。"
+
+msgid "Parental Control Service"
+msgstr "家长控制服务"
+
+msgid "Bonus Time"
+msgstr "奖励时间"
+
+msgid "Add time"
+msgstr "添加时间"
+
+msgid "Paused on"
+msgstr "已暂停于"
+
+msgid "blocking has been paused on"
+msgstr "封锁已暂停于"
+
+msgid "From hour"
+msgstr "从几点"
+
+msgid "to hour"
+msgstr "到几点"

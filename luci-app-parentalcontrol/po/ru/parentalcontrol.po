@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Language-Team: Rafał Wabik (IceG)\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Mon"
+msgstr "Пн"
+
+msgid "Tue"
+msgstr "Вт"
+
+msgid "Wed"
+msgstr "Ср"
+
+msgid "Thu"
+msgstr "Чт"
+
+msgid "Fri"
+msgstr "Пт"
+
+msgid "Sat"
+msgstr "Сб"
+
+msgid "Sun"
+msgstr "Вс"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Blocked"
+msgstr "Заблокировано"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Override"
+msgstr "Приостановка"
+
+msgid "h"
+msgstr "ч"
+
+msgid "m"
+msgstr "мин"
+
+msgid "B"
+msgstr "Б"
+
+msgid "KB"
+msgstr "КБ"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "M"
+msgstr "М"
+
+msgid "K"
+msgstr "К"
+
+msgid "Every day"
+msgstr "Каждый день"
+
+msgid "Mon-Fri"
+msgstr "Пн-Пт"
+
+msgid "Sat-Sun"
+msgstr "Сб-Вс"
+
+msgid "Blocked"
+msgstr "Заблокировано"
+
+msgid "Paused"
+msgstr "Приостановлено"
+
+msgid "Scheduled"
+msgstr "По расписанию"
+
+msgid "Inactive"
+msgstr "Неактивно"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "From"
+msgstr "С"
+
+msgid "to"
+msgstr "по"
+
+msgid "Add Schedule"
+msgstr "Добавить расписание"
+
+msgid "Parental Control"
+msgstr "Родительский контроль"
+
+msgid "Parental control disabled"
+msgstr "Родительский контроль выключен"
+
+msgid "Parental control enabled"
+msgstr "Родительский контроль включен"
+
+msgid "Disable"
+msgstr "Выключить"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Disabled"
+msgstr "Выключен"
+
+msgid "No parental control rules configured."
+msgstr "Правила родительского контроля не настроены."
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Blocked"
+msgstr "Заблокировано"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Override"
+msgstr "Приостановка"
+
+msgid "Moved"
+msgstr "Перемещено"
+
+msgid "Move up"
+msgstr "Переместить вверх"
+
+msgid "up"
+msgstr "вверх"
+
+msgid "Drag to reorder"
+msgstr "Перетащите для изменения порядка"
+
+msgid "Move down"
+msgstr "Переместить вниз"
+
+msgid "down"
+msgstr "вниз"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Blocked"
+msgstr "Заблокировано"
+
+msgid "pkts"
+msgstr "пак."
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "enabled"
+msgstr "включено"
+
+msgid "disabled"
+msgstr "выключено"
+
+msgid "Override"
+msgstr "Приостановка"
+
+msgid "paused for"
+msgstr "приостановлено на"
+
+msgid "Pause"
+msgstr "Приостановить"
+
+msgid "min"
+msgstr "мин"
+
+msgid "hour"
+msgstr "час"
+
+msgid "hours"
+msgstr "часа/часов"
+
+msgid "Paused"
+msgstr "Приостановлено"
+
+msgid "blocking resumed"
+msgstr "блокировка возобновлена"
+
+msgid "Resume"
+msgstr "Возобновить"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Delete rule"
+msgstr "Удалить правило"
+
+msgid "deleted"
+msgstr "удалено"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Parental Control"
+msgstr "Родительский контроль"
+
+msgid "Controlled Devices"
+msgstr "Контролируемые устройства"
+
+msgid "Add Rule"
+msgstr "Добавить правило"
+
+msgid "Add New Rule"
+msgstr "Добавить новое правило"
+
+msgid "Device Name"
+msgstr "Имя устройства"
+
+msgid "e.g. Kids iPad"
+msgstr "например, iPad детей"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "-- Select a device --"
+msgstr "-- Выберите устройство --"
+
+msgid "or"
+msgstr "или"
+
+msgid "Block Schedule"
+msgstr "Расписание блокировки"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Please enter a device name."
+msgstr "Пожалуйста, введите имя устройства."
+
+msgid "Please select or enter a MAC address."
+msgstr "Пожалуйста, выберите или введите MAC-адрес."
+
+msgid "Please configure at least one schedule."
+msgstr "Пожалуйста, настройте хотя бы одно расписание."
+
+msgid "added"
+msgstr "добавлено"
+
+msgid "Add Rule"
+msgstr "Добавить правило"
+
+msgid "Edit Rule"
+msgstr "Редактировать правило"
+
+msgid "Device Name"
+msgstr "Имя устройства"
+
+msgid "MAC Address"
+msgstr "MAC-адрес"
+
+msgid "Block Schedule"
+msgstr "Расписание блокировки"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Please enter a device name."
+msgstr "Пожалуйста, введите имя устройства."
+
+msgid "Please configure at least one schedule."
+msgstr "Пожалуйста, настройте хотя бы одно расписание."
+
+msgid "updated"
+msgstr "обновлено"
+
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+msgid "MAC (manual)"
+msgstr "MAC (вручную)"
+
+msgid "Package allows the user to manage parental control rules - block internet access for selected devices on a schedule and grant temporary bonus time."
+msgstr "Пакет позволяет пользователю управлять правилами родительского контроля — блокировать доступ в интернет для выбранных устройств по расписанию и предоставлять временное дополнительное время."
+
+msgid "Parental Control Service"
+msgstr "Сервис родительского контроля"
+
+msgid "Bonus Time"
+msgstr "Дополнительное время"
+
+msgid "Add time"
+msgstr "Добавить время"
+
+msgid "Paused on"
+msgstr "Приостановлено"
+
+msgid "blocking has been paused on"
+msgstr "блокировка приостановлена"
+
+msgid "From hour"
+msgstr "С часа"
+
+msgid "to hour"
+msgstr "до часа"

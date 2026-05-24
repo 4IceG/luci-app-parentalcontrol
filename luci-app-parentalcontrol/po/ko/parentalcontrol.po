@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Language: ko\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Thu"
+msgstr "목"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "Device"
+msgstr "기기"
+
+msgid "Schedule"
+msgstr "일정"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Blocked"
+msgstr "차단됨"
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "Override"
+msgstr "일시 허용"
+
+msgid "h"
+msgstr "시간"
+
+msgid "m"
+msgstr "분"
+
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "M"
+msgstr "M"
+
+msgid "K"
+msgstr "K"
+
+msgid "Every day"
+msgstr "매일"
+
+msgid "Mon-Fri"
+msgstr "월-금"
+
+msgid "Sat-Sun"
+msgstr "토-일"
+
+msgid "Blocked"
+msgstr "차단됨"
+
+msgid "Paused"
+msgstr "일시 정지됨"
+
+msgid "Scheduled"
+msgstr "예약됨"
+
+msgid "Inactive"
+msgstr "비활성"
+
+msgid "Schedule"
+msgstr "일정"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "From"
+msgstr "시작"
+
+msgid "to"
+msgstr "종료"
+
+msgid "Add Schedule"
+msgstr "일정 추가"
+
+msgid "Parental Control"
+msgstr "자녀 보호 기능"
+
+msgid "Parental control disabled"
+msgstr "자녀 보호 기능이 비활성화되었습니다"
+
+msgid "Parental control enabled"
+msgstr "자녀 보호 기능이 활성화되었습니다"
+
+msgid "Disable"
+msgstr "비활성화"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Disabled"
+msgstr "비활성화됨"
+
+msgid "No parental control rules configured."
+msgstr "설정된 자녀 보호 규칙이 없습니다."
+
+msgid "Device"
+msgstr "기기"
+
+msgid "Schedule"
+msgstr "일정"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Blocked"
+msgstr "차단됨"
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "Override"
+msgstr "일시 허용"
+
+msgid "Moved"
+msgstr "이동됨"
+
+msgid "Move up"
+msgstr "위로 이동"
+
+msgid "up"
+msgstr "위로"
+
+msgid "Drag to reorder"
+msgstr "드래그하여 순서 변경"
+
+msgid "Move down"
+msgstr "아래로 이동"
+
+msgid "down"
+msgstr "아래로"
+
+msgid "Device"
+msgstr "기기"
+
+msgid "Schedule"
+msgstr "일정"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Blocked"
+msgstr "차단됨"
+
+msgid "pkts"
+msgstr "패킷"
+
+msgid "Enabled"
+msgstr "활성화됨"
+
+msgid "enabled"
+msgstr "활성화됨"
+
+msgid "disabled"
+msgstr "비활성화됨"
+
+msgid "Override"
+msgstr "일시 허용"
+
+msgid "paused for"
+msgstr "일시 정지 시간:"
+
+msgid "Pause"
+msgstr "일시 정지"
+
+msgid "min"
+msgstr "분"
+
+msgid "hour"
+msgstr "시간"
+
+msgid "hours"
+msgstr "시간"
+
+msgid "Paused"
+msgstr "일시 정지됨"
+
+msgid "blocking resumed"
+msgstr "차단이 재개됨"
+
+msgid "Resume"
+msgstr "재개"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Delete rule"
+msgstr "규칙 삭제"
+
+msgid "deleted"
+msgstr "삭제됨"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Parental Control"
+msgstr "자녀 보호 기능"
+
+msgid "Controlled Devices"
+msgstr "제어 대상 기기"
+
+msgid "Add Rule"
+msgstr "규칙 추가"
+
+msgid "Add New Rule"
+msgstr "새 규칙 추가"
+
+msgid "Device Name"
+msgstr "기기 이름"
+
+msgid "e.g. Kids iPad"
+msgstr "예: 자녀의 iPad"
+
+msgid "Device"
+msgstr "기기"
+
+msgid "-- Select a device --"
+msgstr "-- 기기 선택 --"
+
+msgid "or"
+msgstr "또는"
+
+msgid "Block Schedule"
+msgstr "차단 일정"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Please enter a device name."
+msgstr "기기 이름을 입력해 주세요."
+
+msgid "Please select or enter a MAC address."
+msgstr "MAC 주소를 선택하거나 입력해 주세요."
+
+msgid "Please configure at least one schedule."
+msgstr "최소 하나의 일정을 설정해 주세요."
+
+msgid "added"
+msgstr "추가됨"
+
+msgid "Add Rule"
+msgstr "규칙 추가"
+
+msgid "Edit Rule"
+msgstr "규칙 편집"
+
+msgid "Device Name"
+msgstr "기기 이름"
+
+msgid "MAC Address"
+msgstr "MAC 주소"
+
+msgid "Block Schedule"
+msgstr "차단 일정"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Please enter a device name."
+msgstr "기기 이름을 입력해 주세요."
+
+msgid "Please configure at least one schedule."
+msgstr "최소 하나의 일정을 설정해 주세요."
+
+msgid "updated"
+msgstr "업데이트됨"
+
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+msgid "MAC (manual)"
+msgstr "MAC (수동)"
+
+msgid "Package allows the user to manage parental control rules - block internet access for selected devices on a schedule and grant temporary bonus time."
+msgstr "이 패키지를 사용하면 자녀 보호 규칙을 관리할 수 있습니다. 선택한 기기의 인터넷 접속을 일정에 따라 차단하고 임시 보너스 시간을 부여할 수 있습니다."
+
+msgid "Parental Control Service"
+msgstr "자녀 보호 서비스"
+
+msgid "Bonus Time"
+msgstr "보너스 시간"
+
+msgid "Add time"
+msgstr "시간 추가"
+
+msgid "Paused on"
+msgstr "일시 중지됨:"
+
+msgid "blocking has been paused on"
+msgstr "차단이 일시 중지되었습니다:"
+
+msgid "From hour"
+msgstr "시작 시간"
+
+msgid "to hour"
+msgstr "종료 시간"

@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Thu"
+msgstr "木"
+
+msgid "Fri"
+msgstr "金"
+
+msgid "Sat"
+msgstr "土"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Blocked"
+msgstr "ブロック中"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Override"
+msgstr "一時解除"
+
+msgid "h"
+msgstr "時間"
+
+msgid "m"
+msgstr "分"
+
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "M"
+msgstr "M"
+
+msgid "K"
+msgstr "K"
+
+msgid "Every day"
+msgstr "毎日"
+
+msgid "Mon-Fri"
+msgstr "月-金"
+
+msgid "Sat-Sun"
+msgstr "土-日"
+
+msgid "Blocked"
+msgstr "ブロック中"
+
+msgid "Paused"
+msgstr "一時停止中"
+
+msgid "Scheduled"
+msgstr "スケジュール設定済"
+
+msgid "Inactive"
+msgstr "無効"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "From"
+msgstr "開始"
+
+msgid "to"
+msgstr "終了"
+
+msgid "Add Schedule"
+msgstr "スケジュールを追加"
+
+msgid "Parental Control"
+msgstr "ペアレンタルコントロール"
+
+msgid "Parental control disabled"
+msgstr "ペアレンタルコントロールは無効です"
+
+msgid "Parental control enabled"
+msgstr "ペアレンタルコントロールは有効です"
+
+msgid "Disable"
+msgstr "無効にする"
+
+msgid "Enable"
+msgstr "有効にする"
+
+msgid "Active"
+msgstr "有効"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "No parental control rules configured."
+msgstr "ペアレンタルコントロールのルールが設定されていません。"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Blocked"
+msgstr "ブロック中"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Override"
+msgstr "一時解除"
+
+msgid "Moved"
+msgstr "移動しました"
+
+msgid "Move up"
+msgstr "上に移動"
+
+msgid "up"
+msgstr "上"
+
+msgid "Drag to reorder"
+msgstr "ドラッグして並べ替え"
+
+msgid "Move down"
+msgstr "下に移動"
+
+msgid "down"
+msgstr "下"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Blocked"
+msgstr "ブロック中"
+
+msgid "pkts"
+msgstr "パケット"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "enabled"
+msgstr "有効化"
+
+msgid "disabled"
+msgstr "無効化"
+
+msgid "Override"
+msgstr "一時解除"
+
+msgid "paused for"
+msgstr "一時停止時間"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "min"
+msgstr "分"
+
+msgid "hour"
+msgstr "時間"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "Paused"
+msgstr "一時停止中"
+
+msgid "blocking resumed"
+msgstr "ブロックを再開しました"
+
+msgid "Resume"
+msgstr "再開"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete rule"
+msgstr "ルールを削除"
+
+msgid "deleted"
+msgstr "削除されました"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Parental Control"
+msgstr "ペアレンタルコントロール"
+
+msgid "Controlled Devices"
+msgstr "管理対象デバイス"
+
+msgid "Add Rule"
+msgstr "ルールを追加"
+
+msgid "Add New Rule"
+msgstr "新しいルールを追加"
+
+msgid "Device Name"
+msgstr "デバイス名"
+
+msgid "e.g. Kids iPad"
+msgstr "例: 子供のiPad"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "-- Select a device --"
+msgstr "-- デバイスを選択 --"
+
+msgid "or"
+msgstr "または"
+
+msgid "Block Schedule"
+msgstr "ブロックスケジュール"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Please enter a device name."
+msgstr "デバイス名を入力してください。"
+
+msgid "Please select or enter a MAC address."
+msgstr "MACアドレスを選択または入力してください。"
+
+msgid "Please configure at least one schedule."
+msgstr "スケジュールを少なくとも1つ設定してください。"
+
+msgid "added"
+msgstr "追加されました"
+
+msgid "Add Rule"
+msgstr "ルールを追加"
+
+msgid "Edit Rule"
+msgstr "ルールを編集"
+
+msgid "Device Name"
+msgstr "デバイス名"
+
+msgid "MAC Address"
+msgstr "MACアドレス"
+
+msgid "Block Schedule"
+msgstr "ブロックスケジュール"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Please enter a device name."
+msgstr "デバイス名を入力してください。"
+
+msgid "Please configure at least one schedule."
+msgstr "スケジュールを少なくとも1つ設定してください。"
+
+msgid "updated"
+msgstr "更新されました"
+
+msgid "Save Changes"
+msgstr "変更を保存"
+
+msgid "MAC (manual)"
+msgstr "MAC (手動)"
+
+msgid "Package allows the user to manage parental control rules - block internet access for selected devices on a schedule and grant temporary bonus time."
+msgstr "このパッケージを使用すると、ユーザーはペアレンタルコントロールのルールを管理できます。スケジュールに従って特定のデバイスのインターネットアクセスをブロックし、一時的なボーナス時間を付与することができます。"
+
+msgid "Parental Control Service"
+msgstr "ペアレンタルコントロールサービス"
+
+msgid "Bonus Time"
+msgstr "ボーナス時間"
+
+msgid "Add time"
+msgstr "時間を追加"
+
+msgid "Paused on"
+msgstr "一時停止日"
+
+msgid "blocking has been paused on"
+msgstr "ブロックが一時停止されました："
+
+msgid "From hour"
+msgstr "開始時刻"
+
+msgid "to hour"
+msgstr "終了時刻"

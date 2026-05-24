@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Language-Team: Rafał Wabik (IceG)\n"
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mié"
+
+msgid "Thu"
+msgstr "Jue"
+
+msgid "Fri"
+msgstr "Vie"
+
+msgid "Sat"
+msgstr "Sab"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Schedule"
+msgstr "Horario"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Blocked"
+msgstr "Bloqueado"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Override"
+msgstr "Anulación"
+
+msgid "h"
+msgstr "h"
+
+msgid "m"
+msgstr "m"
+
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "M"
+msgstr "M"
+
+msgid "K"
+msgstr "K"
+
+msgid "Every day"
+msgstr "Todos los días"
+
+msgid "Mon-Fri"
+msgstr "Lun-Vie"
+
+msgid "Sat-Sun"
+msgstr "Sab-Dom"
+
+msgid "Blocked"
+msgstr "Bloqueado"
+
+msgid "Paused"
+msgstr "Pausado"
+
+msgid "Scheduled"
+msgstr "Programado"
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "Schedule"
+msgstr "Horario"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "From"
+msgstr "De"
+
+msgid "to"
+msgstr "a"
+
+msgid "Add Schedule"
+msgstr "Agregar horario"
+
+msgid "Parental Control"
+msgstr "Control Parental"
+
+msgid "Parental control disabled"
+msgstr "Control parental deshabilitado"
+
+msgid "Parental control enabled"
+msgstr "Control parental habilitado"
+
+msgid "Disable"
+msgstr "Deshabilitar"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "No parental control rules configured."
+msgstr "No hay reglas de control parental configuradas."
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Schedule"
+msgstr "Horario"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Blocked"
+msgstr "Bloqueado"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Override"
+msgstr "Anulación"
+
+msgid "Moved"
+msgstr "Movido"
+
+msgid "Move up"
+msgstr "Mover hacia arriba"
+
+msgid "up"
+msgstr "arriba"
+
+msgid "Drag to reorder"
+msgstr "Arrastra para reordenar"
+
+msgid "Move down"
+msgstr "Mover hacia abajo"
+
+msgid "down"
+msgstr "abajo"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Schedule"
+msgstr "Horario"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Blocked"
+msgstr "Bloqueado"
+
+msgid "pkts"
+msgstr "pqt"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "enabled"
+msgstr "habilitado"
+
+msgid "disabled"
+msgstr "deshabilitado"
+
+msgid "Override"
+msgstr "Anulación"
+
+msgid "paused for"
+msgstr "pausado por"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "min"
+msgstr "min"
+
+msgid "hour"
+msgstr "hora"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "Paused"
+msgstr "Pausado"
+
+msgid "blocking resumed"
+msgstr "bloqueo reanudado"
+
+msgid "Resume"
+msgstr "Reanudar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete rule"
+msgstr "Eliminar regla"
+
+msgid "deleted"
+msgstr "eliminado"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Parental Control"
+msgstr "Control Parental"
+
+msgid "Controlled Devices"
+msgstr "Dispositivos Controlados"
+
+msgid "Add Rule"
+msgstr "Agregar regla"
+
+msgid "Add New Rule"
+msgstr "Agregar nueva regla"
+
+msgid "Device Name"
+msgstr "Nombre del dispositivo"
+
+msgid "e.g. Kids iPad"
+msgstr "ej. iPad de niños"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "-- Select a device --"
+msgstr "-- Seleccionar dispositivo --"
+
+msgid "or"
+msgstr "o"
+
+msgid "Block Schedule"
+msgstr "Horario de bloqueo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Please enter a device name."
+msgstr "Por favor, ingrese un nombre de dispositivo."
+
+msgid "Please select or enter a MAC address."
+msgstr "Por favor, seleccione o ingrese una dirección MAC."
+
+msgid "Please configure at least one schedule."
+msgstr "Por favor, configure al menos un horario."
+
+msgid "added"
+msgstr "agregado"
+
+msgid "Add Rule"
+msgstr "Agregar regla"
+
+msgid "Edit Rule"
+msgstr "Editar regla"
+
+msgid "Device Name"
+msgstr "Nombre del dispositivo"
+
+msgid "MAC Address"
+msgstr "Dirección MAC"
+
+msgid "Block Schedule"
+msgstr "Horario de bloqueo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Please enter a device name."
+msgstr "Por favor, ingrese un nombre de dispositivo."
+
+msgid "Please configure at least one schedule."
+msgstr "Por favor, configure al menos un horario."
+
+msgid "updated"
+msgstr "actualizado"
+
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+msgid "MAC (manual)"
+msgstr "MAC (manual)"
+
+msgid "Package allows the user to manage parental control rules - block internet access for selected devices on a schedule and grant temporary bonus time."
+msgstr "El paquete permite al usuario gestionar las reglas de control parental: bloquear el acceso a internet para dispositivos seleccionados según un horario y conceder tiempo adicional temporal."
+
+msgid "Parental Control Service"
+msgstr "Servicio de control parental"
+
+msgid "Bonus Time"
+msgstr "Tiempo adicional"
+
+msgid "Add time"
+msgstr "Añadir tiempo"
+
+msgid "Paused on"
+msgstr "Pausado el"
+
+msgid "blocking has been paused on"
+msgstr "el bloqueo ha sido pausado el"
+
+msgid "From hour"
+msgstr "Desde la hora"
+
+msgid "to hour"
+msgstr "hasta la hora"

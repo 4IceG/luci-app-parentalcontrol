@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Language-Team: Rafał Wabik (IceG)\n"
+"Language: vi\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Mon"
+msgstr "T2"
+
+msgid "Tue"
+msgstr "T3"
+
+msgid "Wed"
+msgstr "T4"
+
+msgid "Thu"
+msgstr "T5"
+
+msgid "Fri"
+msgstr "T6"
+
+msgid "Sat"
+msgstr "T7"
+
+msgid "Sun"
+msgstr "CN"
+
+msgid "Device"
+msgstr "Thiết bị"
+
+msgid "Schedule"
+msgstr "Lịch trình"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Blocked"
+msgstr "Đã chặn"
+
+msgid "Enabled"
+msgstr "Đã bật"
+
+msgid "Override"
+msgstr "Ghi đè"
+
+msgid "h"
+msgstr "giờ"
+
+msgid "m"
+msgstr "phút"
+
+msgid "B"
+msgstr "B"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "M"
+msgstr "M"
+
+msgid "K"
+msgstr "K"
+
+msgid "Every day"
+msgstr "Mỗi ngày"
+
+msgid "Mon-Fri"
+msgstr "T2-T6"
+
+msgid "Sat-Sun"
+msgstr "T7-CN"
+
+msgid "Blocked"
+msgstr "Đã chặn"
+
+msgid "Paused"
+msgstr "Tạm dừng"
+
+msgid "Scheduled"
+msgstr "Theo lịch trình"
+
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+msgid "Schedule"
+msgstr "Lịch trình"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid "From"
+msgstr "Từ"
+
+msgid "to"
+msgstr "đến"
+
+msgid "Add Schedule"
+msgstr "Thêm lịch trình"
+
+msgid "Parental Control"
+msgstr "Kiểm soát của cha mẹ"
+
+msgid "Parental control disabled"
+msgstr "Đã tắt kiểm soát của cha mẹ"
+
+msgid "Parental control enabled"
+msgstr "Đã bật kiểm soát của cha mẹ"
+
+msgid "Disable"
+msgstr "Tắt"
+
+msgid "Enable"
+msgstr "Bật"
+
+msgid "Active"
+msgstr "Hoạt động"
+
+msgid "Disabled"
+msgstr "Đã tắt"
+
+msgid "No parental control rules configured."
+msgstr "Chưa cấu hình quy tắc kiểm soát của cha mẹ nào."
+
+msgid "Device"
+msgstr "Thiết bị"
+
+msgid "Schedule"
+msgstr "Lịch trình"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Blocked"
+msgstr "Đã chặn"
+
+msgid "Enabled"
+msgstr "Đã bật"
+
+msgid "Override"
+msgstr "Ghi đè"
+
+msgid "Moved"
+msgstr "Đã di chuyển"
+
+msgid "Move up"
+msgstr "Di chuyển lên"
+
+msgid "up"
+msgstr "lên"
+
+msgid "Drag to reorder"
+msgstr "Kéo để thay đổi thứ tự"
+
+msgid "Move down"
+msgstr "Di chuyển xuống"
+
+msgid "down"
+msgstr "xuống"
+
+msgid "Device"
+msgstr "Thiết bị"
+
+msgid "Schedule"
+msgstr "Lịch trình"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Blocked"
+msgstr "Đã chặn"
+
+msgid "pkts"
+msgstr "gói"
+
+msgid "Enabled"
+msgstr "Đã bật"
+
+msgid "enabled"
+msgstr "đã bật"
+
+msgid "disabled"
+msgstr "đã tắt"
+
+msgid "Override"
+msgstr "Ghi đè"
+
+msgid "paused for"
+msgstr "tạm dừng trong"
+
+msgid "Pause"
+msgstr "Tạm dừng"
+
+msgid "min"
+msgstr "phút"
+
+msgid "hour"
+msgstr "giờ"
+
+msgid "hours"
+msgstr "giờ"
+
+msgid "Paused"
+msgstr "Đã tạm dừng"
+
+msgid "blocking resumed"
+msgstr "đã tiếp tục chặn"
+
+msgid "Resume"
+msgstr "Tiếp tục"
+
+msgid "Edit"
+msgstr "Sửa"
+
+msgid "Delete rule"
+msgstr "Xóa quy tắc"
+
+msgid "deleted"
+msgstr "đã xóa"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Parental Control"
+msgstr "Kiểm soát của cha mẹ"
+
+msgid "Controlled Devices"
+msgstr "Thiết bị bị kiểm soát"
+
+msgid "Add Rule"
+msgstr "Thêm quy tắc"
+
+msgid "Add New Rule"
+msgstr "Thêm quy tắc mới"
+
+msgid "Device Name"
+msgstr "Tên thiết bị"
+
+msgid "e.g. Kids iPad"
+msgstr "vd: iPad của trẻ"
+
+msgid "Device"
+msgstr "Thiết bị"
+
+msgid "-- Select a device --"
+msgstr "-- Chọn một thiết bị --"
+
+msgid "or"
+msgstr "hoặc"
+
+msgid "Block Schedule"
+msgstr "Lịch trình chặn"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Please enter a device name."
+msgstr "Vui lòng nhập tên thiết bị."
+
+msgid "Please select or enter a MAC address."
+msgstr "Vui lòng chọn hoặc nhập địa chỉ MAC."
+
+msgid "Please configure at least one schedule."
+msgstr "Vui lòng cấu hình ít nhất một lịch trình."
+
+msgid "added"
+msgstr "đã thêm"
+
+msgid "Add Rule"
+msgstr "Thêm quy tắc"
+
+msgid "Edit Rule"
+msgstr "Sửa quy tắc"
+
+msgid "Device Name"
+msgstr "Tên thiết bị"
+
+msgid "MAC Address"
+msgstr "Địa chỉ MAC"
+
+msgid "Block Schedule"
+msgstr "Lịch trình chặn"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Please enter a device name."
+msgstr "Vui lòng nhập tên thiết bị."
+
+msgid "Please configure at least one schedule."
+msgstr "Vui lòng cấu hình ít nhất một lịch trình."
+
+msgid "updated"
+msgstr "đã cập nhật"
+
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+msgid "MAC (manual)"
+msgstr "MAC (thủ công)"
+
+msgid "Package allows the user to manage parental control rules - block internet access for selected devices on a schedule and grant temporary bonus time."
+msgstr "Gói này cho phép người dùng quản lý các quy tắc kiểm soát của phụ huynh – chặn truy cập internet cho các thiết bị đã chọn theo lịch trình và cấp thêm thời gian sử dụng tạm thời."
+
+msgid "Parental Control Service"
+msgstr "Dịch vụ kiểm soát của phụ huynh"
+
+msgid "Bonus Time"
+msgstr "Thời gian thêm"
+
+msgid "Add time"
+msgstr "Thêm thời gian"
+
+msgid "Paused on"
+msgstr "Đã tạm dừng vào"
+
+msgid "blocking has been paused on"
+msgstr "việc chặn đã được tạm dừng vào"
+
+msgid "From hour"
+msgstr "Từ giờ"
+
+msgid "to hour"
+msgstr "đến giờ"
