@@ -325,7 +325,7 @@ msgstr "Od godziny"
 msgid "to hour"
 msgstr "do godziny"
 
-msgid "MAC (manual)"
-msgstr "MAC (uzupełnij ręcznie)"
+msgid "MAC (or add manually)"
+msgstr "MAC (lub dodaj ręcznie)"
 
 

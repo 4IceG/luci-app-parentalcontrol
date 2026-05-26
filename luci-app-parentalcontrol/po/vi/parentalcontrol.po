@@ -329,3 +329,6 @@ msgstr "Từ giờ"
 
 msgid "to hour"
 msgstr "đến giờ"
+
+msgid "MAC (or add manually)"
+msgstr "MAC (hoặc thêm thủ công)"

@@ -329,3 +329,6 @@ msgstr "Desde la hora"
 
 msgid "to hour"
 msgstr "hasta la hora"
+
+msgid "MAC (or add manually)"
+msgstr "MAC (o añadir manualmente)"

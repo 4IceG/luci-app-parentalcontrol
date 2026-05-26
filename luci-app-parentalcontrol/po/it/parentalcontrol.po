@@ -330,3 +330,6 @@ msgstr "Dall'ora"
 
 msgid "to hour"
 msgstr "all'ora"
+
+msgid "MAC (or add manually)"
+msgstr "MAC (o aggiungi manualmente)"

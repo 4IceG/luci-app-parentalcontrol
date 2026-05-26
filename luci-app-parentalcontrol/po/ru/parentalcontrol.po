@@ -330,3 +330,6 @@ msgstr "С часа"
 
 msgid "to hour"
 msgstr "до часа"
+
+msgid "MAC (or add manually)"
+msgstr "MAC (или добавить вручную)"

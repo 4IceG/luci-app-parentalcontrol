@@ -3,6 +3,7 @@
 		"description": "Grant access to Parental Control",
 		"read": {
 			"ubus": {
+				"session": ["access", "login"],
 				"parentalcontrol": ["get_status", "list_devices"]
 			},
 			"uci": ["parentalcontrol"]

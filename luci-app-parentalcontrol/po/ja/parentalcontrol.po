@@ -328,3 +328,6 @@ msgstr "開始時刻"
 
 msgid "to hour"
 msgstr "終了時刻"
+
+msgid "MAC (or add manually)"
+msgstr "MAC (または手動で追加)"

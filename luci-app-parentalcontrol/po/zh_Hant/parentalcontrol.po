@@ -329,3 +329,6 @@ msgstr "從幾點"
 
 msgid "to hour"
 msgstr "到幾點"
+
+msgid "MAC (or add manually)"
+msgstr "MAC (或手動添加)"

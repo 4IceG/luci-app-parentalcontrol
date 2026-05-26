@@ -78,12 +78,13 @@ let CSS = '\
 .pc-device-row select { flex:1 1 250px; min-width:0; }\
 .pc-device-row input { flex:0 0 160px; }\
 \
-.pc-sched-block { padding:12px; border:1px solid rgba(255,255,255,0.08); border-radius:4px; margin-bottom:8px; }\
+.pc-sched-block { padding:12px; border:1px solid rgba(255,255,255,0.08); border-radius:4px; margin-bottom:8px; width:100%; box-sizing:border-box; }\
+.pc-sched-blocks { width:100%; box-sizing:border-box; }\
 .pc-sched-block-header { display:flex; align-items:center; justify-content:space-between; margin-bottom:8px; }\
 .pc-sched-block-title { font-size:12px; font-weight:600; opacity:0.4; text-transform:uppercase; letter-spacing:0.5px; }\
-.pc-day-checks { display:none; gap:4px; }\
-.cbi-modal .pc-day-checks { display:flex; }\
-.pc-day-btn { padding:4px 2px; border:1px solid var(--border-color-medium); border-radius:3px; background:rgba(255,255,255,0.04); cursor:pointer; font-size:11px; user-select:none; transition:all 0.15s; flex:1; text-align:center; }\
+.pc-day-checks { display:none; gap:3px; width:100%; }\
+.cbi-modal .pc-day-checks { display:flex; width:100%; }\
+.pc-day-btn { padding:4px 0; border:1px solid var(--border-color-medium); border-radius:3px; background:rgba(255,255,255,0.04); cursor:pointer; font-size:10px; user-select:none; transition:all 0.15s; flex:1 1 0; min-width:0; width:0; text-align:center; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }\
 .pc-day-btn.active { background:#1565c0; border-color:#1565c0; color:#fff; }\
 .pc-day-btn:hover { background:rgba(255,255,255,0.08); }\
 .pc-day-btn.active:hover { background:#1565c0; border-color:#1565c0; }\
@@ -353,7 +354,7 @@ function collectSchedules(container, prefix) {
 }
 
 function showModal(title, contentFn, footerFn) {
-	let body = E('div', { 'class': 'cbi-section', 'style': 'min-width:460px; max-width:580px; box-sizing:border-box;' });
+	let body = E('div', { 'class': 'cbi-section', 'style': 'min-width:480px; max-width:680px; width:100%; box-sizing:border-box;' });
 	contentFn(body);
 
 	let closeModal = function() {
@@ -459,9 +460,15 @@ function openAddModal() {
 			])
 		]));
 		body.appendChild(E('div', { 'class': 'cbi-value' }, [
-			E('label', { 'class': 'cbi-value-title' }, _('MAC (manual)')),
+			E('label', { 'class': 'cbi-value-title' }, _('MAC (or add manually)')),
 			E('div', { 'class': 'cbi-value-field' }, [
-				E('input', { 'type': 'text', 'name': 'rule_mac_manual', 'placeholder': 'AA:BB:CC:DD:EE:FF', 'class': 'cbi-input-text' })
+				E('input', { 'type': 'text', 'name': 'rule_mac_manual', 'placeholder': 'AA:BB:CC:DD:EE:FF', 'class': 'cbi-input-text',
+					'input': function() {
+						let err = body.querySelector('.pc-modal-error');
+						if (err) err.style.display = 'none';
+						validateAddForm();
+					}
+				})
 			])
 		]));
 		body.appendChild(E('div', { 'class': 'cbi-value' }, [
@@ -487,11 +494,12 @@ function openAddModal() {
 
 		function validateAddForm() {
 			try {
+				let name   = body.querySelector('[name="rule_name"]').value.trim();
 				let mac    = body.querySelector('[name="rule_mac"]').value;
 				let mm     = body.querySelector('[name="rule_mac_manual"]').value.trim();
 				if (mm) mac = mm;
 				let scheds    = collectSchedules(body, 'add');
-				let canEnable = (mac && scheds);
+				let canEnable = (name && mac && scheds);
 				if (addRuleBtn) {
 					addRuleBtn.disabled           = !canEnable;
 					addRuleBtn.style.opacity      = canEnable ? '1' : '0.4';
